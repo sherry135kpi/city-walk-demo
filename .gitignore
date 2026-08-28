@@ -1,0 +1,12 @@
+# HBuilderX 编译产物
+unpackage/
+dist/
+
+# 依赖
+node_modules/
+
+# 编辑器/系统
+.hbuilderx/
+.DS_Store
+*.log
+Thumbs.db
